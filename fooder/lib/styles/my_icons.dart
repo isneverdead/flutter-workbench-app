@@ -1,0 +1,27 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_svg/flutter_svg.dart';
+
+// const favoriteIcon = SvgPicture.string("""  """);
+// final String assetName = 'assets/images/favorite_icon.svg';
+final String iconDelicsResto = 'assets/images/bakso.svg';
+final String iconArrowLeft = 'assets/images/arrow_left_icon.svg';
+final String iconBell = 'assets/images/bell_icon.svg';
+final String iconDropDown = 'assets/images/drop_down_icon.svg';
+final String iconFavorite = 'assets/images/favorite_icon.svg';
+final String iconFilter = 'assets/images/filter_icon.svg';
+final String iconHome = 'assets/images/home_icon.svg';
+final String iconMixSalad = 'assets/images/mix_salad.svg';
+final String iconMixSaladChoco = 'assets/images/mix_salad_choco.svg';
+final String iconMore = 'assets/images/more_icon.svg';
+final String iconPerson = 'assets/images/person_icon.svg';
+final String iconPrizeTag = 'assets/images/prize_tag.svg';
+final String iconSearch = 'assets/images/search_icon.svg';
+final String iconSend = 'assets/images/send_icon.svg';
+final String iconShoppingBag = 'assets/images/shopping_bag_icon.svg';
+final String iconStar = 'assets/images/star_icon.svg';
+final String iconStonk = 'assets/images/stonk_icon.svg';
+final String iconTrash = 'assets/images/trash_icon.svg';
+final String iconVerified = 'assets/images/verified_icon.svg';
+final String iconPin = 'assets/images/pin_icon.svg';
+final String iconNotification = 'assets/images/notification_icon.svg';
+final String iconTextField = 'assets/images/text_field_icon.svg';
